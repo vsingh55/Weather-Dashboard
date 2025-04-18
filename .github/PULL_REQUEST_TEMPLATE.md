@@ -12,11 +12,7 @@ If applicable, please link to the issue this PR addresses (e.g., `Fixes #123`).
 ## Project(s) Affected
 
 - [ ] Weather Dashboard
-- [ ] NBA Game Day Notification Alert
-- [ ] NBA Data Lake
-- [ ] |
-- [ ] |
-- [ ] |
+
 
 ## Type of Change
 
